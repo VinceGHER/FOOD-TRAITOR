@@ -4,7 +4,7 @@ const path = require('path');
 var methodOverride = require('method-override')
 const app = express();
 
-mongoose.connect("mongodb://foodtraitordatabase:wQZoaj9PDzYiLTFFAubYZ45M84P3R9A8riQW1IJkH0xrhcWbrheUS4msC8GViAFOPEGLFj9pQOqZ4MCqgDpHcQ==@foodtraitordatabase.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&maxIdleTimeMS=120000&appName=@foodtraitordatabase@",
+mongoose.connect("URI TO ENTER",
   { useNewUrlParser: true,
     useUnifiedTopology: true })
   .then(() => console.log('Connexion à MongoDB réussie !'))
