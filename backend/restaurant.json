@@ -1,0 +1,8 @@
+{
+    "name": "testRestaurant",
+    "description": "ddd",
+    "bannerUrl": "https://www.restaurant-salzhaus.ch/assets/Images/Header/_resampled/CroppedFocusedImageWyIxOTIwIiwiODc1IiwieSIsNDAzXQ/190227-004-SvG-HDR-w2.jpg",
+    "categories": [{
+      "name":"testCategories"
+    }]
+  }

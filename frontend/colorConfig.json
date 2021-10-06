@@ -1,0 +1,7 @@
+{
+    "accentColor": "#ff9700",
+    "lightAccentColor": "white",
+    "backgroundColor": "#F2F2F2",
+    "pressedColor":"rgba(73,182,77,1,0.9)",
+    "colorNotPressed": "dimgray"
+}

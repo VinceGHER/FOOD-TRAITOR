@@ -1,0 +1,9 @@
+{
+    "home": {
+        "noMealInCategorie":"Il n'y pas de plats dans cette catégorie pour le moment"
+    },
+    "currency": {
+        "name": "euro",
+        "symbol": "€"
+    }
+}
