@@ -4,9 +4,9 @@ To install download the folder and type npm install in both.
 
 FoodTraitor is an uber-eat style food ordering application but for longer durations (several days) The goal of this project was to become familiar with the react-native and redux frameworks. The application consists of a login screen and a main menu containing 4 screens:
 
-<img src="https://user-images.githubusercontent.com/29159082/136231721-c8f7f718-d73a-45f4-b951-c76f34defe8c.png" width=300 align=right>
-<img src="https://user-images.githubusercontent.com/29159082/136231739-c1781217-65fd-47af-9bba-1885394ffe2a.png" width=300 align=right>
-<img src="https://user-images.githubusercontent.com/29159082/136231750-0c8d6089-ddda-44f0-b1e8-cc661158e8c6.png" width=300 align=right>
+<img src="https://user-images.githubusercontent.com/29159082/136231721-c8f7f718-d73a-45f4-b951-c76f34defe8c.png" width=300>
+<img src="https://user-images.githubusercontent.com/29159082/136231739-c1781217-65fd-47af-9bba-1885394ffe2a.png" width=300>
+<img src="https://user-images.githubusercontent.com/29159082/136231750-0c8d6089-ddda-44f0-b1e8-cc661158e8c6.png" width=300>
 
 
 
